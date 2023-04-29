@@ -1,0 +1,13 @@
+﻿C:\Users\Student10\Documents\3ds Max 2023\archives\t$m$p$$$\ElonaMbalekwa_4016600_VRA702_ClassTest.max
+C:\Users\Student10\Documents\3ds Max 2023\archives\t$m$p$$$\MAXFILES.TXT
+C:\Users\Student10\Downloads\ClassTestResources\ClassTestResources\GrandfatherClockWoodTex.jpeg
+C:\Users\Student10\Downloads\SpecularMap (3).png
+C:\Users\Student10\Downloads\NormalMap (4).png
+C:\Users\Student10\Downloads\ClassTestResources\ClassTestResources\GrandfatherClockWatchFace.jpg
+C:\Users\Student10\Documents\3ds Max 2023\archives\Clock_Alpha.png
+C:\Users\Student10\Documents\Gold texture.jpg
+C:\Users\Student10\Downloads\SpecularMap (4).png
+C:\Users\Student10\Downloads\ClassTestResources\ClassTestResources\GrandfatherClockFrontRef.jpg
+C:\Users\Student10\Downloads\ClassTestResources\ClassTestResources\GrandfatherClockRightRef.jpg
+C:\Users\Student10\Downloads\ClassTestResources\ClassTestResources\GrandfatherClockLeftRef.jpg
+C:\Program Files\Autodesk\3ds Max 2023\maps\uvwunwrap\UV_Checker.png
